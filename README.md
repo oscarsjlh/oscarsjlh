@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kubernetes, Go, Linux,IaC, GitOps**
 
-- 👨‍💻 All of my projects are available at [www.oscarcorner.com](www.oscarcorner.com)
-
 - 💬 Ask me about **Kubernetes, Go, Linux**
 
 - 📫 How to reach me **oscarsjlh@gmail.com**
